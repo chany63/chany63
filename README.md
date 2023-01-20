@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hong Chan, I major in Computer science at Korea University(Seoul)
+- 👋 Hi, I’m Hong Chan, I major in Computer Science at Korea University(Seoul)
 - 👀 I’m interested in Software Developing
 - 🌱 I’m currently learning AI and further app development
 - 📫 How to reach me: chany63@korea.ac.kr
